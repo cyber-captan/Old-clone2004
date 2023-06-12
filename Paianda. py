@@ -395,8 +395,7 @@ def fking1(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[37;41m [paianda 
-                                       ==>CP]\33[0;m '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\x1b[37;41m [paianda==>CP]\33[0;m '+str(uid)+' | '+pas+'\033[1;97m')
                                         print("")
                                         open('/sdcard/F-JOYA-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
