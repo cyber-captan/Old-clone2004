@@ -15,8 +15,8 @@ except ModuleNotFoundError:
 	os.system('python FKING.py')
 import requests,json,os,sys,random,datetime,subprocess,time,re,calendar,base64,zlib,string,platform,uuid
 from bs4 import BeautifulSoup as sop	
-print('[•] Join My Facebook Group')
-os.system('xdg-openhttps://www.facebook.com/KING.KING.KING.LOY.SHAZADA/')
+print('[•]  Follow my Facebook')
+os.system('xdg-open https://www.facebook.com/KING.KING.KING.LOY.SHAZADA/')
 
 try:
 	prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
@@ -159,7 +159,6 @@ logo=("""\033[1;94m
 ==============================================================
 \033[1;31m====================================================
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mAUTHER     \033[1;31m┇\033[31;47m{Abdullah paianda $ Hexar }\33[0;m      
-
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mGITHUB    \033[1;31m ┇\033[1;37m{cyber-captan}\33[0;m              
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mYOUTUBE   \033[1;31m ┇\033[1;37m{not for now}\33[0;m      
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mWHATSAPP \33[1;31m  ┇\033[31;47m{+93748375723 & +93779534336 }\33[0;m
