@@ -362,5 +362,5 @@ def rndm2(ids,passlist):
                                                         open('/sdcard/Paianda-OK.txt','a').write(uid+'|'+pas+'\n')
                                                         oks.append(ids)
                                                         break
-                                        except:
+                                        
              
